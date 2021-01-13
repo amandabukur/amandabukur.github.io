@@ -56,3 +56,10 @@ div.blurb p {
   height: 300px;
   width: auto;
 }
+.logo{
+  width: 190px;
+}
+
+li.top-header {
+    list-style: none;
+}
